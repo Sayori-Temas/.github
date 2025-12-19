@@ -1,12 +1,11 @@
-## Hi there 👋
+# Sayori Temas
 
-<!--
+Sayori is an open-source Minecraft client project released under the GNU General Public License v3.0 (GPL-3.0).
 
-**Here are some ideas to get you started:**
+This project focuses on player visual enhancements and client-side modifications. It is developed for research, educational, and technical exploration purposes, including rendering systems, client architecture, and gameplay visualization mechanics.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Sayori is not affiliated with Mojang Studios or Microsoft, and it is not intended for use on servers where such modifications are prohibited. Users are responsible for complying with the rules of the servers they connect to.
+
+The source code, website, and related materials are fully公开 and auditable, in accordance with the principles of free and open-source software. Contributions, forks, and modifications are permitted under the terms of the GPL-3.0 license.
+
+This project does not attempt to obscure its nature as a client modification. Transparency, openness, and technical discussion are core values of the Sayori project.
